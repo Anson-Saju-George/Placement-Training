@@ -1,3 +1,4 @@
+//package Fundamentals;
 class _002_Main
 {
     public void fun()
@@ -9,8 +10,8 @@ class _002_Main
 
     public static void main(String[] args)
     {
-        _002_Main ob = new _002_Main(); 
-        System.out.println("Hello World!"); 
+        _002_Main ob = new _002_Main();
+        System.out.println("Hello World!");
         ob.fun();
     }
 }
