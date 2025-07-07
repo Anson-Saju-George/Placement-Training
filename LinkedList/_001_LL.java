@@ -12,7 +12,7 @@ class _001_LL{
 	Node head = null, tail=null;
 
 	public void insert(int n){
-		Node newnode - new Node();
+		Node newnode = new Node();
 		if (head == null){
 			head == newnode;
 			tail = newnode;
@@ -43,7 +43,7 @@ class _001_LL{
 		c=c.next;
 	}
 	
-	
+
 	}
 
 	public static void main(String[] args){
