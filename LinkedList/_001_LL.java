@@ -65,6 +65,7 @@ class _001_LL {
     public static void main(String[] args) {
         _001_LL ll = new _001_LL();
 	    System.out.println("Executing...");
+
         ll.insert(10);
         ll.insert(20);
         ll.insert(30);
